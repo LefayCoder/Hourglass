@@ -1,7 +1,8 @@
-// A 2D Array that 6x6 is first populated. Then a 2D 3x3 array from the bigger array are considered at time which for the
-// the hourglass. One more thing though; the elements in 2nd row first column, and the element on 2nd row on the third column
-// on the 3x3(hourglass) array are assigned to 0 thus become the hourglass. After that it is just straight summution, and then 
-// find the lagers of the sum to declare it as the larges hourglass. Enjoy :):)
+// A 2D Array that is 6x6 is first populated with integers. Then a 2D array that is 3x3 is populated from the larger 2D array. 
+// which forms the hourglass, One more thing though; 
+// the elements in 2nd row first column, and the element on 2nd row on the third column
+// on the 3x3(hourglass) array are assigned to 0 thus become the completes the hourglass. 
+// After that it is just straight summation, and then find the largest of sum to declare it as the largest hourglass.Enjoy :):)
 
 import java.util.*;
 
